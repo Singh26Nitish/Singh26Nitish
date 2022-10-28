@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**Singh26Nitish/Singh26Nitish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello There this is Nitish Singh, currently in 4th of Engineering in computer Science
+Singh26Nitish/Singh26Nitish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
