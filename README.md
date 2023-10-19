@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello There this is Nitish Singh, currently in 4th of Engineering in computer Science
 
-[![MasterHead](/resource/banner.png)](https://github.com/Singh26Nitish)
+[![MasterHead](/resource/welcome.png)](https://github.com/Singh26Nitish)
 
 <!--
 **Singh26Nitish/Singh26Nitish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
